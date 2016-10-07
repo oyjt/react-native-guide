@@ -1,8 +1,7 @@
 # React-Native学习指南
 本指南汇集React-Native各类学习资源，给大家提供便利。指南正在不断的更新，大家有好的资源欢迎Pull Requests！
 
-同时还有Awesome React-Native系列
-
+同时还有Awesome React Native系列
 https://github.com/jondot/awesome-react-native
 
 # 目录
@@ -12,6 +11,7 @@ https://github.com/jondot/awesome-react-native
  * [ES6](#es6)
  * [系列教程](#系列教程)
 * [开源APP](#开源app)
+* [图书](#图书)
 * [组件](#组件)
 * [工具](#工具)
 * [资源网站](#资源网站)
@@ -21,14 +21,20 @@ https://github.com/jondot/awesome-react-native
 
 ### React Native
 
-* **React-Native专题系列文章不断更新ing(入门,组件,Api,开源项目)-最近比较火-**
-http://www.lcode.org/react-native/
+* **构建 Facebook F8 2016 App / React Native 开发指南**
+http://f8-app.liaohuqiu.net/
 
 * **React-Native入门指南**
 https://github.com/vczero/react-native-lesson
 
+* **30天学习React Native教程**
+https://github.com/fangwei716/30-days-of-react-native
+
 * **React-Native视频教程(部分免费)**
 https://egghead.io/technologies/react
+
+* **React Native 开发培训视频教程（中文|免费）**
+https://www.gitbook.com/book/unbug/react-native-training/details
 
 * react-native 官方api文档
 http://facebook.github.io/react-native/docs/getting-started.html
@@ -90,11 +96,17 @@ http://www.liaohuqiu.net/cn/posts/react-native-1/
 * React Native: Android 的打包
 http://www.liaohuqiu.net/cn/posts/react-native-android-package/
 
+* ReactNative之原生模块开发并发布——iOS篇
+http://www.liuchungui.com/blog/2016/05/02/reactnativezhi-yuan-sheng-mo-kuai-kai-fa-bing-fa-bu-iospian/
+
+* ReactNative之原生模块开发并发布——android篇
+http://www.liuchungui.com/blog/2016/05/08/reactnativezhi-yuan-sheng-mo-kuai-kai-fa-bing-fa-bu-androidpian/
+
 * react-native的第一课
 https://github.com/coderyi/blog/blob/master/articles/2016/0122_react-native_first_lesson.md
 
-* **构建 Facebook F8 2016 App / React Native 开发指南**
-http://f8-app.liaohuqiu.net/
+* React-Native专题系列文章
+http://www.lcode.org/react-native/
 
 ### React.js
 
@@ -192,11 +204,17 @@ https://github.com/facebook/react-native/tree/master/Examples
 * **Facebook F8 App**
 https://github.com/fbsamples/f8app
 
+* 奇舞周刊 iOS 版（上架应用）
+https://github.com/fakefish/Weekly75
+
 * react-native-dribbble-app
 https://github.com/catalinmiron/react-native-dribbble-app
 
 * **Gank.io客户端**
 https://github.com/Bob1993/React-Native-Gank  
+
+* **Mdcc客户端(优质)**
+https://github.com/Bob1993/mdcc-client
 
 * **Leanote for iOS(云笔记)**
 https://github.com/leanote/leanote-ios-rn
@@ -312,11 +330,38 @@ https://github.com/wwayne/react-native-nba-app
 * 开源中国的Git@OSC客户端
 http://git.oschina.net/rplees/react-native-gitosc
 
+* rn_bycloud 帮瀛律师端app
+https://github.com/liuchungui/rn_bycloud
+
+* ReactNativeRollingExamples - react-native的一些example https://github.com/joggerplus/ReactNativeRollingExamples
+
+* **Reading App Write In React-Native（Studying and Programing**
+https://github.com/attentiveness/reading
+
+* 数独 - 重拾纯粹数独的乐趣
+https://github.com/nihgwu/react-native-sudoku
+
+* Shop-React-Native
+https://github.com/EleTeam/Shop-React-Native
+
+## 图书
+* 《React Native入门与实战》
+http://item.jd.com/11844102.html
+
+* 《React Native开发指南》
+http://www.ituring.com.cn/book/1846
+
+* 《React Native跨平台移动应用开发》
+http://item.jd.com/10372998311.html
+
+* 《React Native：用JavaScript开发移动应用》
+http://item.jd.com/11785195.html
+
 ## 组件
 > 由于已经有较好的组件库网站，这里就不做总结。可以直接查看如下网站，过后可能精选一部分优质组件出来 :P
 
 * **React-native组件库**（比较全的组件库）
-http://react.parts/
+https://js.coach/
 
 * **React Native Modules**
 http://reactnativemodules.com/
@@ -324,8 +369,11 @@ http://reactnativemodules.com/
 * **最佳轮播类组件**
 https://github.com/leecade/react-native-swiper
 
-* React Native Router
-https://github.com/t4t5/react-native-router
+* react-native-simple-router
+https://github.com/react-native-simple-router-community/react-native-simple-router
+
+* react-native-router-flux
+https://github.com/aksonov/react-native-router-flux
 
 * 下拉刷新组件
 https://github.com/jsdf/react-native-refreshable-listview
@@ -348,6 +396,12 @@ https://github.com/binggg/mrn
 * react-native-gitfeed - GitHub客户端(iOS/Android)
 https://github.com/xiekw2010/react-native-gitfeed
 
+* **React-Native-Elements** - React Native样式组件库
+https://github.com/react-native-community/React-Native-Elements
+
+* **Shoutem UI** - React Native样式组件库
+https://github.com/shoutem/ui
+
 ## 工具
 
 * react-native-snippets(代码提示)
@@ -364,6 +418,15 @@ https://github.com/soliury/gulp-react-native-css
 
 * rnpm(React Native Package Manager)
 https://github.com/rnpm/rnpm
+
+* Pepperoni - React Native项目初始化套件
+https://github.com/futurice/pepperoni-app-kit
+
+* **Deco IDE - React Native IDE**
+https://www.decosoftware.com/
+
+* **ignite - React Native CLI项目生成器**
+https://github.com/infinitered/ignite
 
 ## 资源网站
 
@@ -406,3 +469,11 @@ http://div.io/topic/938
 
 * Native与Web的融合 - Qcon中React-Native演讲
 http://www.infoq.com/cn/presentations/the-fusion-of-native-and-web
+
+* 使用React Native一年后的感受
+http://www.dobest.me/blog/2016/06/12/%E4%BD%BF%E7%94%A8React%20Native%E4%B8%80%E5%B9%B4%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%97/
+
+* Weex & ReactNative & JSPatch大对比
+http://awhisper.github.io/2016/07/22/Weex-ReactNative-JSPatch/
+* weex&ReactNative对比
+https://zhuanlan.zhihu.com/p/21677103
